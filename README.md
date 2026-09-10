@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-ML
 
-# Breast Cancer Prediction Using Machine Learning
+
 
 ## Overview
 This project compares three machine learning algorithms for breast cancer prediction using the Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
